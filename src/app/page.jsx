@@ -36,3 +36,4 @@ export default function Home() {
     </main>
   );
 }
+// git ga push qilish
